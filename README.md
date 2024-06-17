@@ -1,2 +1,2 @@
-# Health-Management-System-8-10000-Real-time-Translation-Health-management-system
+# Health-Management-System
 健康管理系统
